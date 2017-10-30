@@ -18,6 +18,7 @@ int main()
 {
    ArrayList* lista = al_newArrayList();
    Employee* aux;
+   Employee* borrar;
    int i;
 
    Employee* e1= employee_new();
