@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1498706813 source:c:\users\josia_000\desktop\implementacion arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+
+1498705771 source:c:\users\josia_000\desktop\implementacion arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+
+1498612105 source:c:\users\josia_000\desktop\implementacion arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+
+1497985467 c:\users\josia_000\desktop\implementacion arraylist\arraylist.h
+
+1498705771 c:\users\josia_000\desktop\implementacion arraylist\funciones.h
+
+1498523659 c:\users\josia_000\desktop\implementacion arraylist\usuarios.h
+
+1497998868 source:c:\users\josia_000\desktop\implementacion arraylist\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1498612105 source:c:\users\josia_000\downloads\implementacion arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+
+1497985467 c:\users\josia_000\downloads\implementacion arraylist\arraylist.h
+
+1499209687 c:\users\josia_000\downloads\implementacion arraylist\funciones.h
+
+1499209722 source:c:\users\josia_000\downloads\implementacion arraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+
+1499210353 source:c:\users\josia_000\downloads\implementacion arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Arraylist.h"
+	"Funciones.h"
+
